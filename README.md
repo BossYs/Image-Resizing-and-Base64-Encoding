@@ -1,4 +1,4 @@
-Image Resizing and Base64 Encoding
+<h1>Image Resizing and Base64 Encoding</h1>
 This repository contains two Python scripts:
 
 resize.py: Resizes images and reduces their bit depth.
