@@ -1,3 +1,5 @@
+#befor running this make sure you are in the correct directory
+
 import base64
 import os
 
