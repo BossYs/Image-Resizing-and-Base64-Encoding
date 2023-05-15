@@ -1,4 +1,6 @@
 <h1>Image Resizing and Base64 Encoding</h1>
+<h2>This script allows you to process a set of images of any size and format, resize them to specified dimensions while preserving their aspect ratio, and convert them to a desired bit depth while maintaining their original colors. This is useful for optimizing image sizes and reducing file storage requirements without losing significant image quality.</h2>
+
 <h2>This repository contains two Python scripts:</h2>
 
 <p>resize.py: Resizes images and reduces their bit depth.</p>
