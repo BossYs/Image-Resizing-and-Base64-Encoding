@@ -9,7 +9,9 @@
 <p>Run resize.py to resize images and change their bit depth:</p>
 
 <h4>bash</h4>
-<code>python resize.py</code>
+<div style="background-color: #fff">
+  <code>python resize.py</code>
+</div>
 
 <p>The script processes images in the public folder, resizes them to a maximum size of 500x500 pixels, and reduces their bit depth to 256 colors. The resized images are saved in the resized_images folder.</p>
 
@@ -17,7 +19,9 @@
 <p>Run convertImage.py to convert the resized images to base64-encoded data:</p>
 
 <h4>bash</h4>
-<code>python convertImage.py</code>
+<div style="background-color: #fff">
+  <code>python convertImage.py</code>
+</div>
   
 <p>The script processes images in the resized_images folder and writes the base64-encoded data to the output.txt file.</p>
 
@@ -27,4 +31,6 @@
 <p>Install Pillow using pip:</p>
 
 <h4>bash</h4>
-<code>pip install pillow</code>
+<div style="background-color: #fff">
+  <code>pip install pillow</code>
+</div>
