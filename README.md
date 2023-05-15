@@ -28,7 +28,7 @@ python convertImage.py
 <h3>Dependencies</h3>
 <p>Python 3.x</p>
 <p>Pillow (Python Imaging Library)</p>
-<p>Install Pillow using pip:</p>
+<h4>Install Pillow using pip:</h4>
 
 ```
 bash
