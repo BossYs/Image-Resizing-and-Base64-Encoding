@@ -6,6 +6,15 @@
 <p>resize.py: Resizes images and reduces their bit depth.</p>
 <p>convertImage.py: Converts resized images to base64-encoded data and writes the data to an output file.</p>
 
+<h3>Dependencies</h3>
+<p>Python 3.x</p>
+<p>Pillow (Python Imaging Library)</p>
+<h4>Install Pillow using pip:</h4>
+
+```
+pip install pillow
+```
+
 <h3>Usage</h3>
 <h4>1. Resize and change bit depth of images</h4>
 <p>Run resize.py to resize images and change their bit depth:</p>
@@ -24,12 +33,3 @@ python convertImage.py
 ```
   
 <p>The script processes images in the resized_images folder and writes the base64-encoded data to the output.txt file.</p>
-
-<h3>Dependencies</h3>
-<p>Python 3.x</p>
-<p>Pillow (Python Imaging Library)</p>
-<h4>Install Pillow using pip:</h4>
-
-```
-pip install pillow
-```
