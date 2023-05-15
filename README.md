@@ -9,9 +9,7 @@
 <p>Run resize.py to resize images and change their bit depth:</p>
 
 <h4>bash</h4>
-```
-python resize.py
-```
+```python resize.py```
 
 <p>The script processes images in the public folder, resizes them to a maximum size of 500x500 pixels, and reduces their bit depth to 256 colors. The resized images are saved in the resized_images folder.</p>
 
