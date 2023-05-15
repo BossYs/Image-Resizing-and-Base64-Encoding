@@ -9,8 +9,8 @@
 <p>Run resize.py to resize images and change their bit depth:</p>
 
 <h4>bash</h4>
+
 ```
-bash
 python resize.py
 ```
 
@@ -20,6 +20,7 @@ python resize.py
 <p>Run convertImage.py to convert the resized images to base64-encoded data:</p>
 
 <h4>bash</h4>
+
 ```
 python convertImage.py
 ```
@@ -32,6 +33,7 @@ python convertImage.py
 <h4>Install Pillow using pip:</h4>
 
 <h4>bash</h4>
+
 ```
 pip install pillow
 ```
